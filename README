@@ -180,30 +180,36 @@ Table of Contents
 2.4 Clients for Other Languages 
 ================================
 
-   Client libraries are available for many languages.  Rather than
-   bundle them with the Riak server source code, we have given them
-   each their own source repository.  Currently, official Riak
-   client language libraries include:
+Client libraries are available for many languages.  Rather than
+bundle them with the Riak server source code, we have given them
+each their own source repository.  Currently, official Riak
+client language libraries include:
 
-   + Javascript
-     [http://bitbucket.org/basho/riak-javascript-client]
+### Javascript
 
-   + Python
-     [http://bitbucket.org/basho/riak-python-client]
+- http://bitbucket.org/basho/riak-javascript-client
 
-   + Ruby
-     [http://bitbucket.org/basho/riak-ruby-client]
-     [http://github.com/seancribbs/ripple/]
+### Python
 
-   + Java
-     [http://bitbucket.org/basho/riak-java-client]
+- http://bitbucket.org/basho/riak-python-client
 
-   + PHP
-     [http://bitbucket.org/basho/riak-php-client]
+### Ruby
 
-   + Erlang
-     [http://bitbucket.org/basho/riak-erlang-client]
-     (using protocol buffers instead of distributed Erlang)
+- http://bitbucket.org/basho/riak-ruby-client
+- http://github.com/seancribbs/ripple/
+
+### Java
+
+- http://bitbucket.org/basho/riak-java-client
+
+### PHP
+
+- http://bitbucket.org/basho/riak-php-client
+
+### Erlang
+
+- http://bitbucket.org/basho/riak-erlang-client (using protocol buffers instead of distributed Erlang)
+
 
 3 Server Management 
 ~~~~~~~~~~~~~~~~~~~~
